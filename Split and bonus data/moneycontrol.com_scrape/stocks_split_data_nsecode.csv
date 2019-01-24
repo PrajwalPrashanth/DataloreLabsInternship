@@ -1,0 +1,661 @@
+NseCode,Company,OldFV,NewFV,SplitDate
+TATASTEEL,Tata Steel,100,10,23-10-1989
+RELINFRA,Reliance Infra,100,10,19-10-1989
+GREAVESCOT,Greaves Cotton,100,10,25-07-1990
+GREAVESCOT,Greaves Cotton,100,10,25-07-1990
+TATAYODOGA,Tayo Rolls,100,10,28-05-1990
+SCHAEFFLER,Schaeffler Ind,100,10,23-03-1990
+,Guj Steel Tubes,100,10,20-03-1990
+FERROALLOY,Ferro Alloys,100,10,02-03-1990
+,Citadel Realty,100,10,15-01-1990
+SIL,Standard Ind,100,10,05-01-1990
+HINDSPG,Hindoostan Spg,250,10,23-12-1991
+notScraping,Sanofi India,100,10,18-11-1991
+,Simplex Realty,50,10,06-05-1991
+notScraping,Bajaj Hindustha,100,10,06-05-1991
+NELCO,NELCO,100,10,14-12-1992
+notScraping,Saurashtra Cem,100,10,24-11-1992
+,Shree Vallabh,100,10,21-10-1992
+ADARSHCHEM,Adarsh Chemical,100,10,23-07-1992
+SISHIPPING,SI Shipping,100,10,21-07-1992
+COCHINREFN,Kochi Refin,100,10,15-07-1992
+SIVIND,SIV Industries,100,10,29-02-1992
+notScraping,Emco,100,10,28-02-1992
+,Gujchem Distill,100,10,10-02-1992
+NRC,NRC,100,10,16-11-1993
+TORRENTAEC,TorrentPowerAEC,100,10,13-11-1993
+TORRENTSEC,TorrentPowerSEC,100,10,20-10-1993
+,Jam Shri Ranjit,100,10,08-10-1993
+TORRENTCAB,Torrent Cab_D,100,10,16-03-1993
+RUBYMILLS,Ruby Mills,100,10,25-01-1993
+RUBYMILLS,Ruby Mills,100,10,25-01-1993
+notScraping,Binani Ind,100,10,21-11-1994
+TRANSFREIT,Trans Freight,100,10,12-09-1994
+CIPLA,Cipla,100,10,29-07-1994
+CHICAGPNUM,Chicago Pneum,100,10,25-03-1994
+notScraping,Shree Digvijay,100,10,24-11-1995
+BBTC,Bombay Burmah,100,10,16-11-1995
+WSTCSTPAPR,West Coast Pap,100,10,18-07-1995
+,Cellulose Prods,100,10,15-06-1995
+TATAHYDRO,Tata Hydro,100,10,23-05-1995
+notScraping,Andhra Valley,100,10,23-05-1995
+TATAPOWER,Tata Power,100,10,22-05-1995
+,Mangal Credit,100,10,23-03-1995
+NOCIL,NOCIL,100,10,10-03-1995
+notScraping,Killick Nixon,100,10,09-03-1995
+notScraping,Bajaj Electric,100,10,20-01-1995
+CABOTINDIA,Cabot India,100,10,10-12-1996
+notScraping,KFA Corporation,100,10,20-08-1996
+PERMAGNET,Permanent Magne,100,10,16-05-1996
+notScraping,Industrial Inv,100,10,09-04-1996
+,Baroda Electric,100,10,05-02-1996
+LFIC,Lakshmi Finance,100,10,01-01-1996
+BARODARAYN,Baroda Rayon,100,10,13-02-1997
+notScraping,Zee Entertain,10,1,06-12-1999
+WIPRO,Wipro,10,2,27-09-1999
+DATAPROINF,Datapro Info,10,2,25-12-2000
+JENSONICOL,Jenson Nicholso,10,2,04-12-2000
+DABUR,Dabur India,10,1,27-11-2000
+HCLTECH,HCL Tech,4,2,27-11-2000
+notScraping,Cummins,10,2,20-11-2000
+JIKIND,JIK Industries,10,1,13-11-2000
+MOREPENLAB,Morepen Lab,10,2,07-11-2000
+notScraping,Novartis India,10,5,06-11-2000
+MASTEK,Mastek,10,5,26-10-2000
+,Moh Granites,10,1,03-10-2000
+CYBERSPACE,Cyberspace Info,10,2,26-09-2000
+SONATSOFTW,Sonata,10,1,25-09-2000
+STER,Sterlite Ind,10,5,25-09-2000
+PHARMACIA,PharmaciaHealth,10,5,25-09-2000
+,Socrus Bio Scie,10,1,25-09-2000
+SRGINFOTEC,Pan India Corp,10,1,18-09-2000
+WIDIA,Kennametal,100,10,18-09-2000
+FSS,Flextronics,10,5,11-09-2000
+VATSALTD,Vatsa Corp,10,1,30-08-2000
+SHREEKRPET,Eskay Knit,10,4,21-08-2000
+notScraping,Jayant Agro-Org,10,5,21-08-2000
+SATYAMCOMP,Mahindra Satyam,10,2,07-08-2000
+ELGIEQUIP,Elgi Equipments,10,1,02-08-2000
+HINDUNILVR,HUL,10,1,03-07-2000
+ITIL,Information Tec,10,5,19-06-2000
+COMPUTECH,Computech Inter,10,5,15-05-2000
+VATSMUSC,Vatsa Music,10,1,10-05-2000
+BLBLIMITED,BLB,10,1,02-05-2000
+,Dolat Investmen,10,1,02-05-2000
+POLARIS,Polaris Consult,10,5,02-05-2000
+INFY,Infosys,10,5,24-01-2000
+,Socrus Bio Scie,1,10,10-12-2001
+,Eonour Tech,10,2,26-11-2001
+DRREDDY,Dr Reddys Labs,10,5,10-10-2001
+SKFINDIA,SKF India,100,10,01-10-2001
+DALALSTCOM,DSJ Comm,10,1,10-09-2001
+,Credence Sound,10,2,10-09-2001
+SRGINFOTEC,Pan India Corp,1,10,20-08-2001
+,Swasti Vinayaka,10,1,30-07-2001
+,Bhuvan Tripura,10,1,16-07-2001
+,Vatsa Education,10,1,02-07-2001
+,Top Telemedia,10,1,18-06-2001
+,Alka India,10,1,04-06-2001
+,Infraquest Intl,10,1,28-05-2001
+,Navyug Elect,10,1,28-05-2001
+,Kashyap Tele,10,1,30-04-2001
+HEROMOTOCO,Hero Motocorp,10,2,12-03-2001
+,Database Fin,10,1,26-02-2001
+,ATN Telefilms,10,2,26-02-2001
+,Cistro Telelink,10,1,19-02-2001
+VIKASWSP,Vikas WSP,10,1,22-01-2001
+,BITS,10,2,08-01-2001
+notScraping,Patel Eng,10,5,02-01-2001
+IPAPPM,Intl Paper APPM,100,10,01-01-2001
+,Harvic Manage,10,1,31-12-2002
+,Oasis Media,10,1,30-12-2002
+,Sanyo Impex,10,1,18-12-2002
+MMWL,Media Matrix,10,1,15-11-2002
+JUBILANT,Jubilant Life,10,5,12-11-2002
+notScraping,Gufic Bio,10,1,29-10-2002
+,Goyal Associate,10,1,22-10-2002
+MOTHERSUMI,Motherson Sumi,10,5,22-10-2002
+notScraping,Asahi India,10,1,08-10-2002
+,Innovision eCom,10,1,07-10-2002
+,Mega Corp,10,1,26-09-2002
+BALAJITELE,Balaji Telefilm,10,2,23-09-2002
+ARVINDREM,Arvind Remedies,10,1,23-09-2002
+DSSL,Dynacons Sys,10,2,19-09-2002
+,White Lion Asia,10,1,17-09-2002
+,Hit Kit Global,10,2,13-08-2002
+,Iris Mediaworks,10,5,24-07-2002
+,Seagull Leafin,10,1,28-06-2002
+SANWARIA,Sanwaria Consum,10,5,11-06-2002
+PTL,PTL Enterprises,100,10,27-05-2002
+FDC,FDC,10,1,14-05-2002
+,Polson,100,50,10-04-2002
+,E.Star Info,10,2,27-03-2002
+PANORAMUNI,Panoramic Uni,10,5,13-03-2002
+BLUECHIP,Blue Chip,10,2,28-02-2002
+SMARTLINK,Smartlink Net,10,2,28-02-2002
+GFL,Wadala,10,1,20-02-2002
+,Infraquest Intl,1,10,14-02-2002
+,Shiva Cement,10,2,30-01-2002
+,Top Telemedia,1,10,09-01-2002
+notScraping,Sterling Bio,10,2,07-01-2002
+SOUNDCRAFT,Soundcraft Ind,10,2,07-01-2002
+notScraping,Fourth Gen Info,10,2,07-01-2002
+HAVELLS,Havells India,10,5,30-12-2003
+JINDALSTEL,Jindal Steel,10,5,22-12-2003
+,Deccan Gold,10,1,22-12-2003
+TVSMOTOR,TVS Motor,10,1,18-12-2003
+,Sagar Product,10,1,16-12-2003
+notScraping,Mirc Electronic,10,1,16-12-2003
+LGBBROSLTD,LG Balakrishnan,10,1,09-12-2003
+NESCO,NESCO,100,10,04-12-2003
+,Baffin Engg,10,1,02-12-2003
+BAYERCROP,Bayer CropScien,100,10,24-11-2003
+,Amardeep,10,1,18-11-2003
+,Shukun Cons,10,1,18-11-2003
+,Amraworld,10,1,18-11-2003
+RAMCOCEM,Ramco Cements,100,10,06-11-2003
+GLENMARK,Glenmark,10,2,23-10-2003
+AUROPHARMA,Aurobindo Pharm,10,5,23-10-2003
+,Platinum Corp,10,1,23-09-2003
+,T Spirutual,10,2,11-08-2003
+notScraping,Sun Techno,10,1,15-07-2003
+,Shalimar Prod,10,1,03-07-2003
+,Eltrol,10,1,22-04-2003
+,Syschem India,10,1,22-04-2003
+PANACEABIO,Panacea Biotec,10,1,03-02-2003
+,Khyati Multimed,10,1,03-02-2003
+notScraping,Sat Ind,10,2,27-01-2003
+,Venus Universal,10,3,23-01-2003
+MAFATLAIND,Mafatlal Ind,100,10,22-01-2003
+,Sunitee Chem,10,1,13-01-2003
+notScraping,Sun Pharma,10,5,13-01-2003
+PEL,Piramal Enter,10,2,27-12-2004
+,Marsons,10,2,24-12-2004
+SPMLINFRA,SPML Infra,10,2,19-11-2004
+VENLONPOLY,Venlon Polyeste,10,5,27-10-2004
+notScraping,Patel Eng,5,1,25-10-2004
+AMTEKAUTO,Amtek Auto,10,2,05-10-2004
+,Perfect Circle,8,1,23-09-2004
+notScraping,Indian Hume,100,10,24-08-2004
+JTEKTINDIA,JTEKT India ,10,2,24-08-2004
+BERGEPAINT,Berger Paints,10,2,24-08-2004
+CARBORUNIV,Carborundum,10,2,16-08-2004
+ADANIENT,Adani Enterpris,10,1,28-07-2004
+SHANTIGEAR,Shanthi Gears,10,1,27-07-2004
+JAGSNPHARM,JagsonpalPharma,10,5,20-07-2004
+BOSCHLTD,Bosch,100,10,08-07-2004
+ASHOKLEY,Ashok Leyland,10,1,28-06-2004
+CIPLA,Cipla,10,2,11-05-2004
+notScraping,Bajaj Hindustha,10,1,28-04-2004
+notScraping,Wockhardt,10,5,28-04-2004
+RADAAN,Radaan Media,10,2,08-04-2004
+,Addi Industries,10,5,06-04-2004
+notScraping,Hazoor,2,4,23-03-2004
+SUPRAJIT,Suprajit Eng,10,5,16-03-2004
+MOTHERSUMI,Motherson Sumi,5,1,16-03-2004
+notScraping,Unichem Labs,10,5,16-03-2004
+JSL,Jindal Stainles,10,2,01-03-2004
+BEPL,Bhansali Eng,10,1,16-02-2004
+EMAMILTD,Emami,10,2,16-02-2004
+HSIL,HSIL,10,5,10-02-2004
+SUNDRMFAST,Sundram,10,1,27-01-2004
+AFTEK,Aftek,10,2,20-01-2004
+SUVEN,Suven Life Sci,10,2,15-01-2004
+GABRIEL,Gabriel India,10,1,30-12-2005
+HSIL,HSIL,5,2,30-12-2005
+SABTN,Sri Adhikari,10,2,30-12-2005
+,Smiths & Found,10,1,27-12-2005
+,Protochem,10,1,23-12-2005
+,G-Tech Info,10,1,21-12-2005
+,Sheetal Sec,10,1,19-12-2005
+PHOENIXLTD,Phoenix Mills,100,10,09-12-2005
+MADHUCON,Madhucon Proj,10,2,02-12-2005
+notScraping,Ventura Text,10,1,02-12-2005
+BELLARYSTL,Bellary Steel,10,1,02-12-2005
+,Vertex Spinning,10,1,11-11-2005
+SUNDARAM,Sundaram Multi,10,1,09-11-2005
+HCC,Hind Constr,10,1,08-11-2005
+VIDHIING,Vidhi Spec,10,1,08-11-2005
+KITEX,Kitex Garments,10,1,07-11-2005
+,DMC Education,10,5,07-11-2005
+CRANESSOFT,Cranes Software,10,2,02-11-2005
+NDL,Nandan Denim,10,1,02-11-2005
+,Jaipan Inds,10,1,02-11-2005
+notScraping,Linkhouse Ind,10,1,02-11-2005
+,Rujul Finance,10,2,31-10-2005
+,Gopala Poly,10,5,31-10-2005
+,Zenith Health,10,1,28-10-2005
+ASSAMCO,Assam Company,10,1,28-10-2005
+KARUNACAB,Globus Corp,10,2,27-10-2005
+DALMIASUG,Dalmia Sugar,10,2,27-10-2005
+,Jayant Mercanti,10,1,27-10-2005
+,Divine Multi,10,1,27-10-2005
+,Sterling Webnet,10,1,26-10-2005
+,BAMPSL Sec,10,1,26-10-2005
+PARASPETRO,Paras Petro,10,1,26-10-2005
+,Indo Pacific,10,1,26-10-2005
+notScraping,Sterling Intl,10,1,26-10-2005
+notScraping,Alchemist,10,1,26-10-2005
+,CHD Developers,10,2,26-10-2005
+,ISF,10,1,24-10-2005
+,ConfidencePetro,10,1,24-10-2005
+GANGOTRI,Gangotri Textil,10,5,24-10-2005
+,Swasti Vinayaka,10,1,21-10-2005
+DPC02,Dishman Pharma,10,2,21-10-2005
+,Bisil Plast,10,1,20-10-2005
+KAJARIACER,Kajaria Ceramic,10,2,19-10-2005
+STRAUSIND,Luminaire Tech,10,1,18-10-2005
+HIMATSEIDE,Himatsingka Sei,10,5,14-10-2005
+,Ontrack Systems,10,1,14-10-2005
+ULTRMARINE,Ultramarine,10,2,10-10-2005
+SINTEX,Sintex Ind,10,2,10-10-2005
+TAJGVK,Taj GVK Hotels,10,2,10-10-2005
+GUJFLUORO,Guj Flourochem,10,2,10-10-2005
+DCMSHRIRAM,DCM Shriram,10,2,07-10-2005
+,Newtime Infra,10,1,07-10-2005
+ASTRAMICRO,Astra Microwave,10,2,07-10-2005
+,Empower India,10,1,06-10-2005
+,Millennium Cybe,10,1,03-10-2005
+notScraping,Manugraph Ind,10,2,03-10-2005
+,BLS Infotech,10,1,28-09-2005
+NIYATILEAS,Veerhealth Care,10,1,28-09-2005
+notScraping,UPL,10,2,27-09-2005
+SAMBHAAV,Sambhaav Media,10,1,26-09-2005
+notScraping,Nila Infra,10,1,26-09-2005
+JAYBARMARU,Jay BharatMarut,10,5,23-09-2005
+SHRENUJ,Shrenuj and Co,10,2,23-09-2005
+ITC,ITC,10,1,21-09-2005
+PIDILITIND,Pidilite Ind,10,1,20-09-2005
+DCW,DCW,10,2,20-09-2005
+,Chandni Textile,10,1,19-09-2005
+,KSL & Ind,10,4,16-09-2005
+BBL,Bharat Bijlee,100,10,09-09-2005
+RAJESHEXPO,Rajesh Exports,10,2,09-09-2005
+CASTEXTECH,Castex Tech,10,2,08-09-2005
+INDTRADECO,Ind Tra Deco,10,1,02-09-2005
+HINDALCO,Hindalco,10,1,30-08-2005
+,Kedia Infotech,10,1,26-08-2005
+,Aeonian Pub,10,2,25-08-2005
+NCC,NCC,10,2,24-08-2005
+NBVENTURES,Nava Bharat Ven,10,2,24-08-2005
+,Sumeru Ind,10,1,22-08-2005
+OMMETALS,OM Metals Infra,10,1,22-08-2005
+SHASUNPHAR,Shasun Pharma,10,2,19-08-2005
+,Koa Tools,10,2,19-08-2005
+MAZDA,Mazda,10,2,18-08-2005
+PRAJIND,Praj Industries,10,2,17-08-2005
+ORIENTABRA,Orient Abrasive,10,1,16-08-2005
+notScraping,Lahoti Over,10,2,12-08-2005
+,Landmarc Corp,10,1,12-08-2005
+KIRLOSIND,Kirloskar Ind,10,2,10-08-2005
+KIRLOSBROS,Kirloskar Bros,10,2,10-08-2005
+GEOMETRIC,Geometric,10,2,02-08-2005
+RANBAXY,Ranbaxy Labs,10,5,25-07-2005
+,Filmcity Media,10,1,25-07-2005
+FAZETHREE,Faze Three Exp,10,2,22-07-2005
+,Mindvision Cap,10,5,21-07-2005
+BHARATFORG,Bharat Forge,10,2,20-07-2005
+,Interface Fin,10,1,18-07-2005
+,Firstobject Tec,10,1,15-07-2005
+,Zigma Software,10,1,13-07-2005
+HCL-INSYS,HCL Info,10,2,08-07-2005
+,IKF Tech,10,1,04-07-2005
+,Asahi Infra,10,1,04-07-2005
+,IFSL,10,1,01-07-2005
+UGARSUGAR,Ugar Sugar Work,10,1,29-06-2005
+,SGN Cable,10,1,23-06-2005
+,Brijlaxmi Lease,10,1,22-06-2005
+,Hinafil India,10,1,20-06-2005
+notScraping,Ambuja Cements,10,2,20-06-2005
+,Systel Infotech,10,1,20-06-2005
+GREENPLY,Greenply Ind,10,5,16-06-2005
+,Diana Tea,10,2,13-06-2005
+,Sapan Chemicals,10,1,02-06-2005
+,Global Films,10,1,30-05-2005
+,Cat Technologie,10,1,30-05-2005
+EIDPARRY,EID Parry,10,2,27-05-2005
+ABAN,Aban Offshore,10,2,04-05-2005
+INDSWFTLTD,Ind-Swift,10,2,29-04-2005
+notScraping,Hexaware Tech,10,2,28-04-2005
+RUCHINFRA,Ruchinfra,10,1,21-04-2005
+,Kanika Infocom,10,2,15-04-2005
+,Aadhaar Venture,10,1,11-04-2005
+notScraping,JB Chemicals,10,2,05-04-2005
+BALRAMCHIN,Balrampur Chini,10,1,23-03-2005
+SHREEKRPOL,Krishna Life,10,1,22-03-2005
+SHREEKRPET,Eskay Knit,4,1,22-03-2005
+notScraping,Sterling Bio,2,1,18-03-2005
+,Shivalik Bimeta,10,2,15-03-2005
+GAMMONIND,Gammon India,10,2,15-03-2005
+LCCINFOTEC,LCC Infotech,10,2,14-03-2005
+,Fast Track,10,1,11-03-2005
+RICOAUTO,Rico Auto,10,1,11-03-2005
+PONDYOXIDE,Pondy Oxides,10,2,09-03-2005
+KPIT,KPIT Tech,10,5,03-03-2005
+,Trimline Invt,10,1,25-02-2005
+notScraping,Vishal Exports,5,1,25-02-2005
+BHAGYANGR,Bhagyanagar Ind,10,2,24-02-2005
+SURANAT&P,Surana Telecom,10,5,24-02-2005
+notScraping,Geodesic,10,2,18-02-2005
+,Interworld,10,1,14-02-2005
+PRASGLOFIN,Silicon Valley,10,1,11-02-2005
+TRIVENI,Triveni Engg,10,1,08-02-2005
+,GV Films,10,1,08-02-2005
+notScraping,Mercator,10,1,24-01-2005
+,Vijay Textiles,10,1,19-01-2005
+,Doctor Biotech,10,1,18-01-2005
+MATRIXLABS,Matrix Lab,10,2,13-01-2005
+HTMEDIA,HT Media,10,2,28-12-2006
+KEI,KEI Industries,10,2,21-12-2006
+LAKSHMIEFL,Lakshmi Energy,10,2,15-12-2006
+LAXMIMACH,Lakshmi Machine,100,10,13-12-2006
+notScraping,Future Ent,10,2,12-12-2006
+notScraping,FEL,10,2,12-12-2006
+notScraping,Graphite India,10,2,11-12-2006
+SANWARIA,Sanwaria Consum,5,2,08-12-2006
+TCI,Transport Corp,10,2,05-12-2006
+ALICON,Alicon Castallo,10,5,04-12-2006
+,Jaipan Inds,1,10,24-11-2006
+SUPREMETEX,Supreme Tex,10,5,17-11-2006
+,Shreejal Info,10,1,14-11-2006
+MAZDA,Mazda,2,10,13-11-2006
+INDHOTEL,Indian Hotels,10,1,27-10-2006
+notScraping,GMM Pfaudler,10,2,20-10-2006
+,Ontrack Systems,1,10,19-10-2006
+,Cat Technologie,1,10,19-10-2006
+ELECON,Elecon Eng,10,2,17-10-2006
+MUNJALSHOW,Munjal Showa,10,2,16-10-2006
+SWANENERGY,Swan Energy,100,2,13-10-2006
+MANALIPETC,Manali Petro,10,5,28-09-2006
+notScraping,Navneet,10,2,27-09-2006
+ALEMBICLTD,Alembic,10,2,26-09-2006
+GEOJITFSL,Geojit Fin,10,1,26-09-2006
+VOLTAS,Voltas,10,1,22-09-2006
+BLUESTARCO,Blue Star,10,2,20-09-2006
+SIMPLEXINF,Simplex Infra,10,2,13-09-2006
+PANYAMCEM,Panyam Cements,100,10,13-09-2006
+EIHOTEL,EIH,10,2,12-09-2006
+EXIDEIND,Exide Ind,10,1,08-09-2006
+HOTELEELA,Hotel Leela,10,2,08-09-2006
+SUPERSPIN,Super Spinning,10,1,01-09-2006
+GODREJIND,Godrej Ind,6,1,25-08-2006
+GODREJCP,Godrej Consumer,4,1,24-08-2006
+GEMINI,Gemini Comm,10,5,18-08-2006
+,GV Films,1,10,16-08-2006
+CGPOWER,CG Power ,10,2,10-08-2006
+,SVC Resources,10,2,03-08-2006
+,Bajaj Hind Sug,10,1,31-07-2006
+,Anuh Pharma,10,5,31-07-2006
+CYIENT,Cyient,10,5,28-07-2006
+JYOTISTRUC,Jyoti Structure,10,2,28-07-2006
+UNITECH,Unitech,10,2,23-06-2006
+ASTRAZEN,AstraZeneca,10,2,15-06-2006
+SIEMENS,Siemens,10,2,13-06-2006
+UBL,United Brewerie,10,1,09-06-2006
+ESSELPACK,Essel Propack,10,2,08-06-2006
+,Birla Capital,10,2,08-06-2006
+TIFIN,TI Financial,10,2,31-05-2006
+,Monozyme,10,5,30-05-2006
+GRINDWELL,Grindwell Norto,10,5,26-05-2006
+NATPEROXID,National Perox,100,10,26-05-2006
+HINDDORROL,Hind Dorr-Olive,10,2,26-05-2006
+ANSALAPI,Ansal Propertie,10,5,10-05-2006
+STER,Sterlite Ind,5,2,05-05-2006
+MAHSEAMLES,Mah Seamless,10,5,18-04-2006
+,AshirwadCapital,10,1,03-04-2006
+THERMAX,Thermax,10,2,31-03-2006
+HARIGCRANK,Harig Crankshaf,10,1,29-03-2006
+IVRCLINFRA,IVRCL,10,2,29-03-2006
+notScraping,Ashapura Mine,10,2,23-03-2006
+,Commex Tech,10,2,21-03-2006
+GATI,Gati,10,2,21-03-2006
+JUBILANT,Jubilant Life,5,1,17-03-2006
+CHEMPLAST,Chemplast Sanma,10,1,08-03-2006
+KCPSUGIND,KCP Sugar,10,1,08-03-2006
+,Supertex Ind,10,1,08-03-2006
+,Jaybharat Text,10,5,03-03-2006
+VIMTALABS,Vimta Labs,10,2,24-02-2006
+TORNTPHARM,Torrent Pharma,10,5,20-02-2006
+notScraping,VIP Clothing,10,2,16-02-2006
+,Religare Tech,10,5,15-02-2006
+LINCOLN,Lincoln Pharma,10,2,08-02-2006
+notScraping,Donear Ind,10,2,27-01-2006
+notScraping,Aarti Ind,10,5,13-01-2006
+,Netlink Sol,10,1,13-01-2006
+notScraping,Action Financia,10,1,10-01-2006
+RADICO,Radico Khaitan,10,2,06-01-2006
+GAEL,Guj Amb Exports,10,2,06-01-2006
+ANTGRAPHIC,Antarctica,10,1,06-01-2006
+notScraping,Prime Property,10,5,02-01-2006
+COROMANDEL,Coromandel Int,10,2,02-01-2006
+KANORICHEM,Kanoria Chem,10,5,31-12-2007
+JPASSOCIAT,Jaiprakash Asso,10,2,17-12-2007
+KRITIIND,Kriti Ind,10,1,13-12-2007
+,Chandni Textile,1,10,30-11-2007
+,Lancor Holdings,10,2,26-11-2007
+BANCOINDIA,Banco Products,10,2,23-11-2007
+SUBROS,Subros,10,2,20-11-2007
+,Zigma Software,1,10,19-11-2007
+notScraping,Guj Mineral,10,2,08-11-2007
+RUCHISOYA,Ruchi Soya,10,2,29-10-2007
+VIPULLTD,Vipul,10,2,29-10-2007
+WSTCSTPAPR,West Coast Pap,10,2,26-10-2007
+GOCLCORP,GOCL Corp,10,2,26-10-2007
+SABTN,Sri Adhikari,2,10,25-10-2007
+notScraping,Birla Precision,10,2,24-10-2007
+FAZETHREE,Faze Three Exp,2,10,24-10-2007
+ICSA,ICSA,10,2,23-10-2007
+ADVANIHOTR,Advani Hotels,10,2,22-10-2007
+ASIANELEC,Asian Electroni,10,5,22-10-2007
+BLKASHYAP,BL Kashyap,10,5,22-10-2007
+LLOYDMETAL,Lloyds Metals,10,2,19-10-2007
+PENINLAND,Peninsula Land,10,2,16-10-2007
+ARSHIYA,Arshiya,10,2,12-10-2007
+MANINDS,Man Industries,10,5,09-10-2007
+COMPUSOFT,Compucom Soft,10,2,08-10-2007
+ANANTRAJ,Anant Raj,10,2,08-10-2007
+JAICORPLTD,Jai Corp,10,1,05-10-2007
+GMRINFRA,GMR Infra,10,2,28-09-2007
+SHILPAMED,Shilpa,10,2,28-09-2007
+BATLIBOI,Batliboi,10,5,26-09-2007
+AMARAJABAT,Amara Raja Batt,10,2,19-09-2007
+ELECTCAST,Electrosteel,10,1,17-09-2007
+AHLUCONT,Ahluwalia,10,2,14-09-2007
+GLENMARK,Glenmark,2,1,10-09-2007
+USHAMART,Usha Martin,5,1,29-08-2007
+HIRECT,Hind Rectifiers,10,2,28-08-2007
+NIITLTD,NIIT,10,2,24-08-2007
+SANGHVIMOV,Sanghvi Movers,10,2,23-08-2007
+notScraping,Everest Kanto,10,2,21-08-2007
+APOLLOTYRE,Apollo Tyres,10,1,17-08-2007
+,Matra Realty,10,5,17-08-2007
+DIVISLAB,Divis Labs,10,2,03-08-2007
+,Modison Metals,10,1,03-08-2007
+EASUNREYRL,Easun Reyrl,10,2,31-07-2007
+SUNTV,Sun TV Network,10,5,23-07-2007
+KSOILS,KS Oils,10,1,18-07-2007
+,Satra Prop,10,2,09-07-2007
+notScraping,Alchemist,1,10,05-07-2007
+,Bharat Seats,10,2,28-06-2007
+ABB,ABB India,10,2,28-06-2007
+COREEDUTEC,CORE Education,10,2,06-06-2007
+PAPERPROD,Huhtamaki PPL,10,2,25-05-2007
+THOMASCOOK,Thomas Cook,10,1,14-05-2007
+MIRZAINT,Mirza Intl,10,2,24-04-2007
+notScraping,Action Financia,1,10,23-04-2007
+PUNJLLOYD,Punj Lloyd,10,2,29-03-2007
+NRBBEARING,NRB Bearings,10,2,26-03-2007
+SUVEN,Suven Life Sci,2,1,23-03-2007
+notScraping,Minaxi Textiles,10,1,21-03-2007
+,Bombay SwadShar,10,2,20-03-2007
+,Sapan Chemicals,1,10,15-03-2007
+NIRMA,Nirma,10,5,14-03-2007
+,Prime Urban Dev,10,2,13-03-2007
+DCHL,DeccanChronicle,10,2,13-03-2007
+MFSL,Max Financial,10,2,12-03-2007
+notScraping,Marico,10,1,21-02-2007
+GOKEX,Gokaldas Export,10,5,08-02-2007
+JIKIND,JIK Industries,1,10,07-02-2007
+PARACABLES,Paramount Comm,10,2,25-01-2007
+,Alka Secur,10,2,15-01-2007
+PONDYOXIDE,Pondy Oxides,2,10,15-01-2007
+,Jaybharat Text,5,2,09-01-2007
+,CNI Research,10,1,08-01-2007
+FINCABLES,Finolex Cables,10,2,08-01-2007
+KPIT,KPIT Tech,5,2,04-01-2007
+,Allied Computer,10,1,19-12-2008
+JYOTHYLAB,Jyothy Labs,5,1,12-12-2008
+,Koffee Break,10,1,08-12-2008
+SBT,State Bk Travan,100,10,05-12-2008
+,Sybly Ind,10,1,02-12-2008
+,Khyati Multimed,1,10,24-11-2008
+SHRIDINESH,Shri Dinesh Mil,100,10,20-11-2008
+NECLIFE,Nectar Life,10,1,12-11-2008
+JINDRILL,Jindal Drilling,10,5,06-11-2008
+notScraping,Ratnamani Metal,10,2,06-11-2008
+,Mobile Tele,10,1,31-10-2008
+notScraping,Time Techno,10,1,29-10-2008
+notScraping,Skyline Millars,10,1,27-10-2008
+GET&D,GE T&D India,10,2,22-10-2008
+CCHHL,Country Club,10,2,15-10-2008
+AIAENG,AIA Engineering,10,2,13-10-2008
+SBBJ,State B Bikaner,100,10,07-10-2008
+PROVOGE,Provogue,10,2,03-10-2008
+RAMCOCEM,Ramco Cements,10,1,01-10-2008
+notScraping,Take Solutions,10,1,18-09-2008
+,Bafna Spinning,10,5,18-09-2008
+GEMINI,Gemini Comm,5,1,17-09-2008
+ERAINFRA,Era Infra Eng,10,2,17-09-2008
+HERCULES,Hercules Hoists,10,1,17-09-2008
+,Adinath Bio-Lab,10,1,15-09-2008
+AICHAMP,AI Champdany,10,5,11-09-2008
+JMFINANCIL,JM Financial,10,1,08-09-2008
+JTEKTINDIA,JTEKT India ,2,1,02-09-2008
+,Mavens Biotech,10,1,25-08-2008
+KOKUYOCMLN,Kokuyo Camlin,10,1,22-08-2008
+,GS Auto,10,5,20-08-2008
+notScraping,IIFL Holdings,10,2,08-08-2008
+VEDL,Vedanta,10,1,08-08-2008
+notScraping,Graviss Hosp,10,2,04-08-2008
+,Diana Tea,2,5,30-07-2008
+notScraping,Motilal Oswal,5,1,25-07-2008
+HATSUN,Hatsun Agro,10,2,17-07-2008
+MALCO,Madras Aluminiu,10,2,17-07-2008
+TRICOM,Tricom India,10,2,15-07-2008
+,Millennium Cybe,1,10,14-07-2008
+,Fast Track,1,10,14-07-2008
+BIRLAMONEY,AB Money,10,1,11-07-2008
+MIC,MIC Electronics,10,2,27-06-2008
+notScraping,Eastern Silk,10,2,27-06-2008
+,Tribhuvan House,10,5,02-06-2008
+,Cals Refineries,10,1,28-05-2008
+notScraping,Dollex Ind,10,5,12-05-2008
+TANLA,Tanla Solutions,2,1,02-05-2008
+EVINIX,Evinix,10,1,29-04-2008
+,Alchemist Real,10,2,25-04-2008
+CENTURYPLY,CenturyPlyboard,10,1,24-04-2008
+NMDC,NMDC,10,1,10-04-2008
+RENUKA,Shree Renuka,10,1,10-04-2008
+KGL,Karuturi Global,10,1,04-04-2008
+notScraping,Crazy Infotech,10,1,28-03-2008
+,Super Tannery,10,2,19-03-2008
+GANDHITUBE,Gandhi Spl Tube,10,5,17-03-2008
+notScraping,Emco,10,2,14-03-2008
+ACE,Action Const,10,2,13-03-2008
+BLISSGVS,Bliss GVS,10,1,11-03-2008
+PDUMJEIND,Pudumjee Ind,10,2,11-03-2008
+MARKSANS,Marksans Pharma,10,1,11-03-2008
+notScraping,Walchandnagar,10,2,25-02-2008
+PTL,PTL Enterprises,10,2,25-02-2008
+TV18BRDCST,TV18 Broadcast,10,2,21-02-2008
+notScraping,Triton Corp,2,1,18-02-2008
+,Kulkarni Power,10,5,14-02-2008
+PHOENIXLTD,Phoenix Mills,10,2,13-02-2008
+GVKPIL,GVK Power,10,1,08-02-2008
+SANWARIA,Sanwaria Consum,2,1,04-02-2008
+GUJFLUORO,Guj Flourochem,2,1,01-02-2008
+ORIENTPPR,Orient Paper,10,1,01-02-2008
+,Asian Films,10,1,30-01-2008
+RAJESHEXPO,Rajesh Exports,2,1,29-01-2008
+,Modern India,10,2,25-01-2008
+CUB,City Union Bank,10,1,23-01-2008
+,T Spirutual,2,10,23-01-2008
+CINEVISTA,Cinevista,10,2,22-01-2008
+SUZLON,Suzlon Energy,10,2,21-01-2008
+JINDALSTEL,Jindal Steel,5,1,21-01-2008
+DELTACORP,Delta Corp,10,1,15-01-2008
+CLASSIC,Classic Diamond,10,2,11-01-2008
+notScraping,GEE,10,2,10-01-2008
+JAGRAN,JagranPrakashan,10,2,09-01-2008
+,Rujul Finance,2,10,31-12-2009
+NUTEK,Nu Tek India,10,5,23-12-2009
+,Firstobject Tec,1,10,22-12-2009
+KANANIIND,Kanani Ind,10,5,22-12-2009
+JKLAKSHMI,JK Lakshmi Cem,10,5,17-12-2009
+,Gennex Labs,10,1,14-12-2009
+,Intl Conveyor,10,1,10-12-2009
+KWALITY,Kwality,10,1,10-12-2009
+JINDALSAW,Jindal Saw,10,2,10-12-2009
+,Munoth Capital,10,5,09-12-2009
+ASHCONIUL,Ashco Niulab,10,1,08-12-2009
+,Flawless Diamon,10,1,03-12-2009
+,Vintron Ind,10,1,27-11-2009
+HBLPOWER,HBL Power,10,1,24-11-2009
+ALLCARGO,Allcargo,10,2,19-11-2009
+,Sigrun Holdings,10,1,19-11-2009
+HINDNATGLS,Hind Nat Glass,10,2,12-11-2009
+notScraping,Allied Digital,10,5,11-11-2009
+MADHUCON,Madhucon Proj,2,1,05-11-2009
+,Yantra Natural,10,1,04-11-2009
+VINATIORGA,Vinati Organics,10,2,30-10-2009
+,KCL Infrra,100,2,29-10-2009
+,Sturdy Ind,10,2,29-10-2009
+,Baba Arts,4,1,29-10-2009
+EDUCOMP,Educomp Sol,10,2,27-10-2009
+notScraping,Gammon Infra,10,2,26-10-2009
+REISIXTEN,REI Six Ten,10,2,26-10-2009
+BIRLACOT,Birla Cotsyn,10,1,23-10-2009
+,Trimurthi,10,1,15-10-2009
+FCSSOFT,FCS Software,10,1,15-10-2009
+,Comfort,10,1,14-10-2009
+,Marsons,2,10,14-10-2009
+notScraping,Gokul Refoils,10,2,14-10-2009
+notScraping,Sunteck Realty,10,2,09-10-2009
+,Supertex Ind,10,1,08-10-2009
+notScraping,Menon Bearings,10,5,08-10-2009
+GMRINFRA,GMR Infra,2,1,01-10-2009
+notScraping,SKS,2,10,25-09-2009
+FALCONTYRE,Falcon Tyres,10,5,25-09-2009
+ARCOTECH,Arcotech,2,10,25-09-2009
+,Winsome Textile,10,1,24-09-2009
+MVL,MVL,10,2,18-09-2009
+,Rajoo Engineers,10,1,17-09-2009
+notScraping,ILandFS,10,2,16-09-2009
+RAMCOIND,Ramcoind,10,1,14-09-2009
+,Anjani Synth,10,1,08-09-2009
+,Veer Energy,10,1,04-09-2009
+,SJ Corporation,10,1,28-08-2009
+,Zyden Gentec,10,1,27-08-2009
+SHREEASHTA,Ashtavinayak,10,1,20-08-2009
+,ACIL Cotton Ind,10,5,14-08-2009
+notScraping,Austral Coke,10,1,07-08-2009
+,KGN Industries,10,1,07-08-2009
+,Avance Tech,10,1,03-08-2009
+,Radhe Developer,10,1,30-07-2009
+BHARTIARTL,Bharti Airtel,10,5,24-07-2009
+,JMD Ventures,10,1,03-07-2009
+,Indiaco Venture,10,2,19-06-2009
+GOODLUCK,Good Luck,10,2,12-06-2009
+notScraping,Anus Labs,10,1,11-05-2009
+,Alka Secur,2,1,06-05-2009
+BIRLAPOWER,Birla Power Sol,10,1,24-04-2009
+AMJLAND,AMJ Land ,10,2,23-03-2009
+LINCOLN,Lincoln Pharma,2,10,19-03-2009
+,Sarang Chem,10,1,17-03-2009
+CORAL-HUB,Coral Hub,10,1,27-02-2009
+,Trinethra Infra,10,2,26-02-2009
+REIAGROLTD,Rei Agro,10,1,05-02-2009
+SPECTACLE,Spectacle,10,1,23-01-2009
+,Sanraa Media,10,1,20-01-2009
+MYSOREBANK,State Bk Mysore,100,10,07-01-2009
+TEXINFRA,Texmaco Infra,10,1,01-01-2009
